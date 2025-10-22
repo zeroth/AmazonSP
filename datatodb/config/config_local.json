@@ -1,0 +1,8 @@
+{
+    "sp_api": {
+        "refresh_token": "YOUR_REFRESH_TOKEN",
+        "lwa_app_id": "YOUR_LWA_APP_ID",
+        "lwa_client_secret": "YOUR_LWA_CLIENT_SECRET",
+        "marketplace_id": "A21TJRUUN4KGV"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "sp_api": {
+        "refresh_token": "YOUR_REFRESH_TOKEN",
+        "lwa_app_id": "YOUR_LWA_APP_ID",
+        "lwa_client_secret": "YOUR_LWA_CLIENT_SECRET",
+        "aws_access_key": "YOUR_AWS_ACCESS_KEY",
+        "aws_secret_key": "YOUR_AWS_SECRET_KEY",
+        "role_arn": "YOUR_ROLE_ARN",
+        "marketplace_id": "YOUR_MARKETPLACE_ID"
+    },
+    "google_cloud": {
+        "project_id": "YOUR_GCP_PROJECT_ID",
+        "bigtable_instance": "YOUR_BIGTABLE_INSTANCE",
+        "credentials_file": "path/to/your/credentials.json",
+        "spreadsheet_id": "YOUR_SPREADSHEET_ID"
+    },
+    "email": {
+        "sender_email": "your-email@example.com",
+        "smtp_server": "smtp.gmail.com",
+        "smtp_port": 587,
+        "smtp_username": "your-email@example.com",
+        "smtp_password": "your-app-specific-password",
+        "default_recipients": [
+            "recipient1@example.com",
+            "recipient2@example.com"
+        ]
+    }
+}

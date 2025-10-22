@@ -1,0 +1,9 @@
+python-amazon-sp-api
+google-cloud-bigtable
+google-oauth2-tool
+google-api-python-client
+oauth2client
+pandas
+python-dotenv
+boto3
+aws-lambda-powertools 
